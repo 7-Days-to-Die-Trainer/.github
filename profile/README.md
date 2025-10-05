@@ -5,6 +5,8 @@ Designed for **Windows 10/11**, this advanced survival enhancer lets you modify 
 
 Built to work seamlessly in **single-player** and **private co-op**, it gives you complete freedom to shape your own survival story — whether you want creative power, balanced control, or full sandbox domination.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://7-days-to-die-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
